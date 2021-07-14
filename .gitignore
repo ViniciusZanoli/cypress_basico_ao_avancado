@@ -1,3 +1,13 @@
+# ignor project
+.DS_Store
+cypress.env.json
+*/cypress/screenshot/*
+*/cypress/videos/*
+node_modules
+temp/
+
+
+
 # Logs
 logs
 *.log
